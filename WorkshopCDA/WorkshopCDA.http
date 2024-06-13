@@ -1,0 +1,6 @@
+@WorkshopCDA_HostAddress = http://localhost:5042
+
+GET {{WorkshopCDA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

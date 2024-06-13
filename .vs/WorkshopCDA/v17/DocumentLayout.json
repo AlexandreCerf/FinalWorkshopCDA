@@ -1,0 +1,607 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\endpoints\\userendpoints\\loginuserendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\endpoints\\userendpoints\\loginuserendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\dto\\responses\\userresponses\\loginuserresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\dto\\responses\\userresponses\\loginuserresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\endpoints\\userendpoints\\createuserendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\endpoints\\userendpoints\\createuserendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\endpoints\\raceendpoints\\updateraceendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\endpoints\\raceendpoints\\updateraceendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\endpoints\\raceendpoints\\getallracesendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\endpoints\\raceendpoints\\getallracesendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\endpoints\\raceendpoints\\createraceendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\endpoints\\raceendpoints\\createraceendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\endpoints\\animalendpoints\\updateanimalbyidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\endpoints\\animalendpoints\\updateanimalbyidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\endpoints\\animalendpoints\\getanimalbyidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\endpoints\\animalendpoints\\getanimalbyidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\endpoints\\animalendpoints\\deleteanimalbyidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\endpoints\\animalendpoints\\deleteanimalbyidendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\endpoints\\animalendpoints\\getallanimalsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\endpoints\\animalendpoints\\getallanimalsendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\endpoints\\animalendpoints\\createanimalendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\endpoints\\animalendpoints\\createanimalendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\dto\\responses\\userresponses\\createuserresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\dto\\responses\\userresponses\\createuserresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\dto\\responses\\raceresponses\\updateracebyidresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\dto\\responses\\raceresponses\\updateracebyidresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\dto\\responses\\raceresponses\\getallracesresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\dto\\responses\\raceresponses\\getallracesresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\dto\\responses\\raceresponses\\createraceresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\dto\\responses\\raceresponses\\createraceresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\dto\\responses\\animalresponses\\updateanimalbyidresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\dto\\responses\\animalresponses\\updateanimalbyidresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\dto\\responses\\animalresponses\\getanimalbyidresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\dto\\responses\\animalresponses\\getanimalbyidresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\dto\\responses\\animalresponses\\getallanimalsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\dto\\responses\\animalresponses\\getallanimalsresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\dto\\responses\\animalresponses\\deleteanimalbyidresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\dto\\responses\\animalresponses\\deleteanimalbyidresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\dto\\responses\\animalresponses\\createanimalresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\dto\\responses\\animalresponses\\createanimalresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\dto\\requests\\userrequests\\createuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\dto\\requests\\userrequests\\createuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\dto\\requests\\userrequests\\loginuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\dto\\requests\\userrequests\\loginuserrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\dto\\requests\\racerequests\\updateracebyidrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\dto\\requests\\racerequests\\updateracebyidrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\dto\\requests\\racerequests\\createracerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\dto\\requests\\racerequests\\createracerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\dto\\requests\\animalrequests\\updateanimalbyidrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\dto\\requests\\animalrequests\\updateanimalbyidrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\dto\\requests\\animalrequests\\getanimalbyidrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\dto\\requests\\animalrequests\\getanimalbyidrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\dto\\requests\\animalrequests\\deleteanimalbyidrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\dto\\requests\\animalrequests\\deleteanimalbyidrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\dto\\requests\\animalrequests\\createanimalrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\dto\\requests\\animalrequests\\createanimalrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\data\\finalworkshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\data\\finalworkshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\endpoints\\rootendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\endpoints\\rootendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|c:\\users\\stagiaire\\source\\repos\\finalworkshop\\workshopcda\\models\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55592E77-B087-4806-B9DD-2D19A9D6644B}|WorkshopCDA\\WorkshopCDA.csproj|solutionrelative:workshopcda\\models\\race.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAnimalByIdEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\AnimalEndpoints\\GetAnimalByIdEndpoint.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\Endpoints\\AnimalEndpoints\\GetAnimalByIdEndpoint.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\AnimalEndpoints\\GetAnimalByIdEndpoint.cs",
+              "RelativeToolTip": "WorkshopCDA\\Endpoints\\AnimalEndpoints\\GetAnimalByIdEndpoint.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA9wBkAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:30:48.712Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateAnimalEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\AnimalEndpoints\\CreateAnimalEndpoint.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\Endpoints\\AnimalEndpoints\\CreateAnimalEndpoint.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\AnimalEndpoints\\CreateAnimalEndpoint.cs",
+              "RelativeToolTip": "WorkshopCDA\\Endpoints\\AnimalEndpoints\\CreateAnimalEndpoint.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAADwvxgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:13:09.643Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginUserEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\UserEndpoints\\LoginUserEndpoint.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\Endpoints\\UserEndpoints\\LoginUserEndpoint.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\UserEndpoints\\LoginUserEndpoint.cs",
+              "RelativeToolTip": "WorkshopCDA\\Endpoints\\UserEndpoints\\LoginUserEndpoint.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:53:05.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginUserResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Responses\\UserResponses\\LoginUserResponseDTO.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\DTO\\Responses\\UserResponses\\LoginUserResponseDTO.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Responses\\UserResponses\\LoginUserResponseDTO.cs",
+              "RelativeToolTip": "WorkshopCDA\\DTO\\Responses\\UserResponses\\LoginUserResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:54:12.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Models\\Animal.cs",
+              "RelativeToolTip": "WorkshopCDA\\Models\\Animal.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAswDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:12:04.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Models\\Client.cs",
+              "RelativeToolTip": "WorkshopCDA\\Models\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:51:37.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateUserEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\UserEndpoints\\CreateUserEndpoint.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\Endpoints\\UserEndpoints\\CreateUserEndpoint.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\UserEndpoints\\CreateUserEndpoint.cs",
+              "RelativeToolTip": "WorkshopCDA\\Endpoints\\UserEndpoints\\CreateUserEndpoint.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:56:23.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateRaceEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\RaceEndpoints\\UpdateRaceEndpoint.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\Endpoints\\RaceEndpoints\\UpdateRaceEndpoint.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\RaceEndpoints\\UpdateRaceEndpoint.cs",
+              "RelativeToolTip": "WorkshopCDA\\Endpoints\\RaceEndpoints\\UpdateRaceEndpoint.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAswBIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:14:35.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllRacesEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\RaceEndpoints\\GetAllRacesEndpoint.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\Endpoints\\RaceEndpoints\\GetAllRacesEndpoint.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\RaceEndpoints\\GetAllRacesEndpoint.cs",
+              "RelativeToolTip": "WorkshopCDA\\Endpoints\\RaceEndpoints\\GetAllRacesEndpoint.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAwwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:15:02.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateRaceEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\RaceEndpoints\\CreateRaceEndpoint.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\Endpoints\\RaceEndpoints\\CreateRaceEndpoint.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\RaceEndpoints\\CreateRaceEndpoint.cs",
+              "RelativeToolTip": "WorkshopCDA\\Endpoints\\RaceEndpoints\\CreateRaceEndpoint.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:14:20.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateAnimalByIdEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\AnimalEndpoints\\UpdateAnimalByIdEndpoint.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\Endpoints\\AnimalEndpoints\\UpdateAnimalByIdEndpoint.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\AnimalEndpoints\\UpdateAnimalByIdEndpoint.cs",
+              "RelativeToolTip": "WorkshopCDA\\Endpoints\\AnimalEndpoints\\UpdateAnimalByIdEndpoint.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA7wBIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T13:57:13.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeleteAnimalByIdEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\AnimalEndpoints\\DeleteAnimalByIdEndpoint.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\Endpoints\\AnimalEndpoints\\DeleteAnimalByIdEndpoint.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\AnimalEndpoints\\DeleteAnimalByIdEndpoint.cs",
+              "RelativeToolTip": "WorkshopCDA\\Endpoints\\AnimalEndpoints\\DeleteAnimalByIdEndpoint.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAADwvxMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:44:55.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAllAnimalsEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\AnimalEndpoints\\GetAllAnimalsEndpoint.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\Endpoints\\AnimalEndpoints\\GetAllAnimalsEndpoint.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\AnimalEndpoints\\GetAllAnimalsEndpoint.cs",
+              "RelativeToolTip": "WorkshopCDA\\Endpoints\\AnimalEndpoints\\GetAllAnimalsEndpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:25:15.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateUserResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Responses\\UserResponses\\CreateUserResponseDTO.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\DTO\\Responses\\UserResponses\\CreateUserResponseDTO.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Responses\\UserResponses\\CreateUserResponseDTO.cs",
+              "RelativeToolTip": "WorkshopCDA\\DTO\\Responses\\UserResponses\\CreateUserResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:57:33.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpdateRaceByIdResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Responses\\RaceResponses\\UpdateRaceByIdResponseDTO.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\DTO\\Responses\\RaceResponses\\UpdateRaceByIdResponseDTO.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Responses\\RaceResponses\\UpdateRaceByIdResponseDTO.cs",
+              "RelativeToolTip": "WorkshopCDA\\DTO\\Responses\\RaceResponses\\UpdateRaceByIdResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:10:01.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetAllRacesResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Responses\\RaceResponses\\GetAllRacesResponseDTO.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\DTO\\Responses\\RaceResponses\\GetAllRacesResponseDTO.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Responses\\RaceResponses\\GetAllRacesResponseDTO.cs",
+              "RelativeToolTip": "WorkshopCDA\\DTO\\Responses\\RaceResponses\\GetAllRacesResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:10:29.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateRaceResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Responses\\RaceResponses\\CreateRaceResponseDTO.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\DTO\\Responses\\RaceResponses\\CreateRaceResponseDTO.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Responses\\RaceResponses\\CreateRaceResponseDTO.cs",
+              "RelativeToolTip": "WorkshopCDA\\DTO\\Responses\\RaceResponses\\CreateRaceResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:09:28.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateAnimalByIdResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Responses\\AnimalResponses\\UpdateAnimalByIdResponseDTO.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\DTO\\Responses\\AnimalResponses\\UpdateAnimalByIdResponseDTO.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Responses\\AnimalResponses\\UpdateAnimalByIdResponseDTO.cs",
+              "RelativeToolTip": "WorkshopCDA\\DTO\\Responses\\AnimalResponses\\UpdateAnimalByIdResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:34:03.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetAnimalByIdResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Responses\\AnimalResponses\\GetAnimalByIdResponseDTO.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\DTO\\Responses\\AnimalResponses\\GetAnimalByIdResponseDTO.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Responses\\AnimalResponses\\GetAnimalByIdResponseDTO.cs",
+              "RelativeToolTip": "WorkshopCDA\\DTO\\Responses\\AnimalResponses\\GetAnimalByIdResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:13:02.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetAllAnimalsResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Responses\\AnimalResponses\\GetAllAnimalsResponseDTO.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\DTO\\Responses\\AnimalResponses\\GetAllAnimalsResponseDTO.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Responses\\AnimalResponses\\GetAllAnimalsResponseDTO.cs",
+              "RelativeToolTip": "WorkshopCDA\\DTO\\Responses\\AnimalResponses\\GetAllAnimalsResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:35:18.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeleteAnimalByIdResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Responses\\AnimalResponses\\DeleteAnimalByIdResponseDTO.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\DTO\\Responses\\AnimalResponses\\DeleteAnimalByIdResponseDTO.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Responses\\AnimalResponses\\DeleteAnimalByIdResponseDTO.cs",
+              "RelativeToolTip": "WorkshopCDA\\DTO\\Responses\\AnimalResponses\\DeleteAnimalByIdResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:32:45.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateAnimalResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Responses\\AnimalResponses\\CreateAnimalResponseDTO.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\DTO\\Responses\\AnimalResponses\\CreateAnimalResponseDTO.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Responses\\AnimalResponses\\CreateAnimalResponseDTO.cs",
+              "RelativeToolTip": "WorkshopCDA\\DTO\\Responses\\AnimalResponses\\CreateAnimalResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:13:04.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateUserRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Requests\\UserRequests\\CreateUserRequestDTO.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\DTO\\Requests\\UserRequests\\CreateUserRequestDTO.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Requests\\UserRequests\\CreateUserRequestDTO.cs",
+              "RelativeToolTip": "WorkshopCDA\\DTO\\Requests\\UserRequests\\CreateUserRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:57:07.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginUserRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Requests\\UserRequests\\LoginUserRequestDTO.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\DTO\\Requests\\UserRequests\\LoginUserRequestDTO.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Requests\\UserRequests\\LoginUserRequestDTO.cs",
+              "RelativeToolTip": "WorkshopCDA\\DTO\\Requests\\UserRequests\\LoginUserRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:54:41.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateRaceByIdRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Requests\\RaceRequests\\UpdateRaceByIdRequestDTO.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\DTO\\Requests\\RaceRequests\\UpdateRaceByIdRequestDTO.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Requests\\RaceRequests\\UpdateRaceByIdRequestDTO.cs",
+              "RelativeToolTip": "WorkshopCDA\\DTO\\Requests\\RaceRequests\\UpdateRaceByIdRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:11:37.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateRaceRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Requests\\RaceRequests\\CreateRaceRequestDTO.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\DTO\\Requests\\RaceRequests\\CreateRaceRequestDTO.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Requests\\RaceRequests\\CreateRaceRequestDTO.cs",
+              "RelativeToolTip": "WorkshopCDA\\DTO\\Requests\\RaceRequests\\CreateRaceRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:11:04.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateAnimalByIdRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Requests\\AnimalRequests\\UpdateAnimalByIdRequestDTO.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\DTO\\Requests\\AnimalRequests\\UpdateAnimalByIdRequestDTO.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Requests\\AnimalRequests\\UpdateAnimalByIdRequestDTO.cs",
+              "RelativeToolTip": "WorkshopCDA\\DTO\\Requests\\AnimalRequests\\UpdateAnimalByIdRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:33:36.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetAnimalByIdRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Requests\\AnimalRequests\\GetAnimalByIdRequestDTO.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\DTO\\Requests\\AnimalRequests\\GetAnimalByIdRequestDTO.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Requests\\AnimalRequests\\GetAnimalByIdRequestDTO.cs",
+              "RelativeToolTip": "WorkshopCDA\\DTO\\Requests\\AnimalRequests\\GetAnimalByIdRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:14:24.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DeleteAnimalByIdRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Requests\\AnimalRequests\\DeleteAnimalByIdRequestDTO.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\DTO\\Requests\\AnimalRequests\\DeleteAnimalByIdRequestDTO.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Requests\\AnimalRequests\\DeleteAnimalByIdRequestDTO.cs",
+              "RelativeToolTip": "WorkshopCDA\\DTO\\Requests\\AnimalRequests\\DeleteAnimalByIdRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T12:32:25.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateAnimalRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Requests\\AnimalRequests\\CreateAnimalRequestDTO.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\DTO\\Requests\\AnimalRequests\\CreateAnimalRequestDTO.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\DTO\\Requests\\AnimalRequests\\CreateAnimalRequestDTO.cs",
+              "RelativeToolTip": "WorkshopCDA\\DTO\\Requests\\AnimalRequests\\CreateAnimalRequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:14:23.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FinalWorkshopContext.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Data\\FinalWorkshopContext.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\Data\\FinalWorkshopContext.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Data\\FinalWorkshopContext.cs",
+              "RelativeToolTip": "WorkshopCDA\\Data\\FinalWorkshopContext.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAwwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:08:32.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RootEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\RootEndpoints.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\Endpoints\\RootEndpoints.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Endpoints\\RootEndpoints.cs",
+              "RelativeToolTip": "WorkshopCDA\\Endpoints\\RootEndpoints.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:01:09.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Program.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\Program.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Program.cs",
+              "RelativeToolTip": "WorkshopCDA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:10:58.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Race.cs",
+              "DocumentMoniker": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Models\\Race.cs",
+              "RelativeDocumentMoniker": "WorkshopCDA\\Models\\Race.cs",
+              "ToolTip": "C:\\Users\\stagiaire\\source\\repos\\FinalWorkshop\\WorkshopCDA\\Models\\Race.cs",
+              "RelativeToolTip": "WorkshopCDA\\Models\\Race.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:51:39.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
