@@ -10,4 +10,6 @@ Je n'ai en effet pas réalisé de partie front-end, par manque d'expérience et 
 
 Pour les tests, malgré la présence de Swagger, je les ai réalisés sur Postman que je connais mieux.
 
+Enfin, j'ai essayé de faire des tests unitaires mais je n'ai pas réussi par manque de temps.
+
 Je vous souhaite bon courage pour la correction.
